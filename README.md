@@ -10,6 +10,7 @@ Geocoding: City to coordinates conversion using Nominatim
 WMO Code Translation: 45+ weather condition mappings
 
 2. Quiz Module
+   
 Dynamic question loading
 
 Streak tracking with JSON persistence
@@ -24,6 +25,7 @@ Collaborative packing lists
 14-day forecast analysis
 
 🚀 Getting Started
+
 Prerequisites
 Python 3.10+
 
