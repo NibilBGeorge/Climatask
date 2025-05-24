@@ -44,9 +44,9 @@ OpenTrivia
 
 Service	Endpoint	Parameters
 
-Open-Meteo	https://api.open-meteo.com/v1/forecast	latitude, longitude, hourly
-OpenTrivia	https://opentdb.com/api.php	amount, category
-Nominatim	https://nominatim.openstreetmap.org/search	q, format
+1. Open-Meteo	https://api.open-meteo.com/v1/forecast	latitude, longitude, hourly
+2. OpenTrivia	https://opentdb.com/api.php	amount, category
+3. Nominatim	https://nominatim.openstreetmap.org/search	q, format
 
 👥 Development Team
 
