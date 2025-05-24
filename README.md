@@ -18,6 +18,7 @@ Streak tracking with JSON persistence
 API response caching
 
 3. Picnic Planner
+   
 Weather suitability scoring algorithm
 
 Collaborative packing lists
