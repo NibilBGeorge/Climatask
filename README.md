@@ -3,6 +3,7 @@
 
 🔑 Core Technical Components
 1. Weather Engine
+   
 Open-Meteo Integration: Real-time weather forecasting
 
 Geocoding: City to coordinates conversion using Nominatim
@@ -40,7 +41,9 @@ OpenTrivia
 
 
 🌐 API Reference
+
 Service	Endpoint	Parameters
+
 Open-Meteo	https://api.open-meteo.com/v1/forecast	latitude, longitude, hourly
 OpenTrivia	https://opentdb.com/api.php	amount, category
 Nominatim	https://nominatim.openstreetmap.org/search	q, format
