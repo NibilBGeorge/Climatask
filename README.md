@@ -1,17 +1,6 @@
 # Climatask
 🌤️ ClimaTask - Weather-Powered Productivity App Plan smarter with real-time weather insights | Built with Python &amp; Streamlit  
 
-## 🛠️ Technical Architecture
-
-```mermaid
-graph TD
-    A[User Interface] --> B(Streamlit Frontend)
-    B --> C{API Gateway}
-    C --> D[Open-Meteo Weather API]
-    C --> E[OpenTrivia API]
-    F[JSON Data Store] --> B
-    B --> G[Session State Management]
-
 🔑 Core Technical Components
 1. Weather Engine
 Open-Meteo Integration: Real-time weather forecasting
