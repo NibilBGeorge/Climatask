@@ -43,12 +43,14 @@ OpenTrivia	https://opentdb.com/api.php	amount, category
 Nominatim	https://nominatim.openstreetmap.org/search	q, format
 
 👥 Development Team
+
  Contributors	 |    LinkedIn
 ----------------------------------------------------------------
-Nibil B George - https://www.linkedin.com/in/nibil-b-george-791a93227/
-Deva Dev KA	- https://www.linkedin.com/in/devadev-ka/
-Akshaya Jayakumar - https://www.linkedin.com/in/akshaya-jayakumar/
-Hasbina MK	- https://www.linkedin.com/in/hasbina-mk-5418102a3/
+
+1. Nibil B George - https://www.linkedin.com/in/nibil-b-george-791a93227/
+2. Deva Dev KA	- https://www.linkedin.com/in/devadev-ka/
+3. Akshaya Jayakumar - https://www.linkedin.com/in/akshaya-jayakumar/
+4. Hasbina MK	- https://www.linkedin.com/in/hasbina-mk-5418102a3/
 
 🙏 Acknowledgments
 Special thanks to:
